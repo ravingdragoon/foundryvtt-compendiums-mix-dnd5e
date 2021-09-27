@@ -1,2 +1,2 @@
 # Changelog
-Remove Non-English compendiums, as well as compendiums I already have loaded.
+Remove Non-English, weather, UM, and ME compendiums.
