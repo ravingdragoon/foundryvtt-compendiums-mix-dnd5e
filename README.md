@@ -301,36 +301,6 @@ A rollable table of 1001 fish, created by burkenhare #4761 (Discord)
 PC wants to roll for a survival check, after the party makes camp alongside a river. The GM makes them roll on the d1000 fish table to determine what kind of fish they catch (thank god there is such a thing, or else it would be trout every time!) .  They roll a 210, why, it's a cownose ray! But every adventurer knows that the cownose ray is a saltwater animal, that could only mean one thing.... FLOOD!
 So you see, it can be used in many ways to contribute to the plot." - Burkenhare
 
-## [SRD heros et dragons](https://gitlab.com/lemaire.erw/srd-heros-et-dragons)
-
-## [Ultramodern OGL/SRD (UM5) by Dias Ex Machina Games](https://github.com/MrBrentRogers/UM5-Ultramodern5-OGL)
-
-Provides support for the UM5 SRD by extending the dnd5e system. UM5 is a SRD extension for 5e created by Dias Ex Machina Games, https://www.drivethrurpg.com/product/196905/Ultramodern5SRD-OGL-5th-Edition
-
-Ultramodern OGL adds modern and future tech, including a new variant human, classes, skills, and equipment to the D&D5e system.
-
-This module is wholly unaffiliated with Dias Ex Machina Games.
-
-### Compendiums:
-- UM5 Ch.1: Skills, Proficiencies, & Feats
-- UM5 Ch.2: Backgrounds
-- UM5 Ch.2: Lifepath & Life Events
-- UM5 Ch.3: Ladders
-- UM5 Ch.4: Classes
-- UM5 Ch.5: Archetypes
-- UM5 Ch.6: New Rules Summary
-- UM5 Ch.6: New Weapon Properties
-- UM5 Ch.6: Equipment
-- UM5 Ch.6: Vehicles
-- UM5 Ch.6: Exo-Armor (Mechs)
-- UM5 Ch.7: Antagonists & Enemies
-- UM5 Ch.7: Antagonist Traits
-- UM5 Modern Locations
-
-## [fvtt-me5e (Mass Effect 5e)](https://github.com/sparkcity/fvtt-me5e)
-
-A module to add support for ME5e, a futuristic sci-fi setting, to your 5e world. Includes most compendium content from ME5e excluding that which would infringe on copyright.
-
 ## [FoundryVTT-FantasyPlants](https://github.com/KyleBishop/FoundryVTT-FantasyPlants)
 
 https://www.reddit.com/r/DnD/comments/83oupp/brodericks_compendium_plants_and_fungi_across_the/ ). I did not create any of the plants. This addon includes rolltables for the following regions as per the source material: 
@@ -359,24 +329,6 @@ I also have Forien's Unidentified Items add-on and right click the new plant and
 This is an implementation of the [Sly Flourish' 1d20 Lists for D&D Adventure Inspiration](https://slyflourish_content.s3.us-east-1.amazonaws.com/1d20_lists.pdf).
 
 Shared on Twitter and adapted with permission.
-
-## [Weather Effects 5e](https://github.com/orangetruth/weather-effects-5e )
-
-This FoundryVTT module contains rollable tables with seasonal weather effects for 5e based on homebrew by KibblesTasty (https://www.gmbinder.com/share/-M6xAC_2zw4BzpByxO-c). You can find more homebrew by KibblesTasty at https://www.patreon.com/KibblesTasty.
-
-This module contains 3 compendiums:
-
-1. Weather Actors
-* A single Weather Effects actor with each weather condition added as a Feature. This allows weather effects to be easily clicked on and the description sent to chat. Each description has links to related weather effects, as well as buttons to roll damage and saving throws where applicable. 
-![image](https://user-images.githubusercontent.com/76987378/109440451-95a9a600-79ef-11eb-9588-55f790478a63.png)
-
-2. Weather Effects
-* An item for each weather effect, complete with links to related effects and buttons to roll damage and saving throws:
-![image](https://user-images.githubusercontent.com/76987378/109440608-19fc2900-79f0-11eb-9a91-5ba7742f233e.png)
-
-3. Weather Roll Tables
-* Rollable tables for all four seasons:
-![image](https://user-images.githubusercontent.com/76987378/109449280-440c1600-7a05-11eb-923d-8869b7a089b1.png)
 
 ## [Modular Trains](https://www.reddit.com/r/FoundryVTT/comments/mgc1m6/modular_trains_module_just_a_simple_few_tokens_to/)
 
